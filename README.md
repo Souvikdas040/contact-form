@@ -16,9 +16,9 @@ Getting Started
     git clone (https://github.com/Souvikdas040/contact-form.git)
 
 2. Navigate to the project directory:
-    cd ResponsiveContactPage
+    cd contact-form
 
-3. Open the index.php file in your preferred code editor and customize the form fields, styling, and other elements as needed.
+4. Open the index.php file in your preferred code editor and customize the form fields, styling, and other elements as needed.
 
 Usage
 -----
