@@ -1,4 +1,4 @@
-Responsive Contact Page
+Contact Page
 
 Overview
 --------
