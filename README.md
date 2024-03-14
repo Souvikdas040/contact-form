@@ -13,12 +13,12 @@ Server-Side Handling: Form submissions are processed on the server side using PH
 Getting Started
 ---------------
 1. Clone this repository to your local machine:
-    git clone https://github.com/YourUsername/ResponsiveContactPage.git
+    git clone (https://github.com/Souvikdas040/contact-form.git)
 
 2. Navigate to the project directory:
     cd ResponsiveContactPage
 
-3. Open the index.html file in your preferred code editor and customize the form fields, styling, and other elements as needed.
+3. Open the index.php file in your preferred code editor and customize the form fields, styling, and other elements as needed.
 
 Usage
 -----
