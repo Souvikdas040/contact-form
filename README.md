@@ -7,11 +7,14 @@ This project aims to create a modern and responsive contact page using HTML, CSS
 ![L_view](https://github.com/Souvikdas040/contact-form/assets/106548388/956c0d81-c6d6-4609-849e-83fbe7617ba4)
 ======Laptop View======
 
+
 ![T_view](https://github.com/Souvikdas040/contact-form/assets/106548388/1baac648-a374-4c1f-be12-54de8b6ff012)
 ======Tab View======
 
+
 ![M_view](https://github.com/Souvikdas040/contact-form/assets/106548388/893a6f2a-7b37-4ec0-8a1f-c21a0f600d2f)
 ======Mobile View======
+
 
 Features
 --------
