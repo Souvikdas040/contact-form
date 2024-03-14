@@ -34,7 +34,7 @@ Usage
 1. Open index.php in your web browser to view the contact form.
 2. Fill out the form with your name, email, subject, and message.
 3. Click the “Submit” button.
-4. The form data will be sent to the server-side PHP script (submit.php), which will forward it to your specified email address.
+4. The form data will be sent to the server-side PHP script (form.php), which will forward it to your specified email address.
 
 Installation
 ------------
