@@ -2,13 +2,13 @@ Contact Page
 
 Overview
 --------
-This project aims to create a modern and responsive contact page using HTML, CSS, JavaScript, and PHP. The contact form allows users to submit inquiries, and the form submissions will be forwarded to your email address.
+This project aims to create a modern and responsive contact page using HTML, CSS, JavaScript, and PHP. The contact form allows users to submit inquiries, and the form submissions will be forwarded to my email address.
 
 Features
 --------
 Responsive Design: The contact form adapts seamlessly to various screen sizes, ensuring a consistent user experience across devices.
 Client-Side Validation: JavaScript is used for real-time validation, providing instant feedback to users as they fill out the form.
-Server-Side Handling: Form submissions are processed on the server side using PHP. Data is securely sent to your email.
+Server-Side Handling: Form submissions are processed on the server side using PHP. Data is securely sent to my email.
 
 Getting Started
 ---------------
