@@ -41,7 +41,7 @@ Usage
 
 Installation
 ------------
-No installation steps are required for this project. Simply open the index.html file in any modern web browser.
+No installation steps are required for this project. Simply open the index.php file in any modern web browser.
 
 Contributing
 ------------
